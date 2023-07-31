@@ -1,9 +1,10 @@
 <h2 align="center">
-  Portfólio Website - Iara Tassi<br/>
+  Portfólio Website <br/>
   <a href="https://iaratassi.github.io/portfolio-Iara/" target="_blank">Iara Tassi</a>
 </h2>
 <div align="center">
-  <img alt="" src="https://github.com/IaraTassi/portfolio-Iara/blob/main/Captura%20de%20Tela%20(121).png" />
+  <p>Resultado Final 👁️ </p>
+  <img alt="" src="https://github.com/IaraTassi/portfolio-Iara/blob/main/portfolio.png" />
 </div>
 
 <br/>
