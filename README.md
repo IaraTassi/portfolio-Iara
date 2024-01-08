@@ -4,7 +4,7 @@
 </h2>
 <div align="center">
   <p>Resultado Final 👁️ </p>
-  <img alt="" src="https://github.com/IaraTassi/portfolio-Iara/blob/main/portfolio.png" />
+  <img alt="" src="https://github.com/IaraTassi/portfolio-Iara/blob/main/Captura%20de%20Tela%20(159).png" />
 </div>
 
 <br/>
