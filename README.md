@@ -24,7 +24,7 @@ Meu primeiro projeto de portfólio pessoal, onde me apresento, bem como meu curr
 ⚡️ CSS3\
 ⚡️ JavaScript\
 ⚡️ Bootstrap4\
-⚡️ VsCode\
+⚡️ VsCode
 
 ## 📌 Características
 
